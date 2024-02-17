@@ -38,8 +38,5 @@ python Breadcrumbsedgehomefinance.py
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 For any inquiries or feedback, please contact [Faizan Haroon](https://github.com/Pakheria).
