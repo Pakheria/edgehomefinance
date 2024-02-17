@@ -20,7 +20,7 @@ git clone https://github.com/Pakheria/edgehomefinance.git\
 ```
 2. Navigate to the project directory:
 ```bash
-cd team-members-web-scraper
+cd edgehomefinance
 ```
 3. Install dependencies:
 ```bash
