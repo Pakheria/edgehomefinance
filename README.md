@@ -16,8 +16,7 @@ This Python script is designed to scrape team member information from a webpage 
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/your_username/Breadcrumbsedgehomefinance
-.git\
+git clone https://github.com/Pakheria/edgehomefinance.git\
 ```
 2. Navigate to the project directory:
 ```bash
@@ -29,7 +28,7 @@ pip install -r requirements.txt
 ```
 4. Run the script:
 ```bash
-python Breadcrumbsedgehomefinance.py
+python edgehomefinance.py
 ```
 
 ## Configuration
