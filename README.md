@@ -1,7 +1,7 @@
 # Team Members Web Scraper
 
 ## Description
-This Python script is designed to scrape team member information from a webpage and store it in a CSV file. It specifically targets the team member section of the "https://edgehomefinance.com/our-team/" webpage and extracts details such as first name, last name, email, and phone number.
+This Python script is designed to scrape team member information from a webpage and store it in a CSV file. It specifically targets the team member section of the "https://edgehomefinance.com/" webpage and extracts details such as first name, last name, email, and phone number.
 
 ## Features
 - Scrapes data from the "Our Team" section of the Edge Home Finance website.
